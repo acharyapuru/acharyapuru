@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acharyapuru&label=Profile%20views&color=0e75b6&style=flat" alt="acharyapuru" /> </p>
 
-<p align="left"> <a href="https://twitter.com/achryapuru" target="blank"><img src="https://img.shields.io/twitter/follow/achryapuru?logo=twitter&style=for-the-badge" alt="achryapuru" /></a> </p>
+<p align="left"> <a href="https://twitter.com/achryapuru" target="blank"><img src="https://img.shields.io/twitter/follow/acharyapuru_?logo=twitter&style=for-the-badge" alt="acharyapuru_" /></a> </p>
 
 - 🌱 I’m currently learning **Django, ASP.NET Core**
 
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/acharyapuru_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achryapuru_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/purushottam-acharya-02421826b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purushottam-acharya-02421826b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/acharyapuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purushottam-acharya-02421826b" height="30" width="40" /></a>
 <a href="https://fb.com/acharyapuru0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="achryapuru" height="30" width="40" /></a>
 <a href="https://instagram.com/acharyapuru_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achryapuru" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@acharyapuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="puru" height="30" width="40" /></a>

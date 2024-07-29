@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Purushottam Acharya</h1>
 <h3 align="center">A passionate backend developer from Nepal</h3>
 
-<img align="right" alt="programmer" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="programmer" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmNnZheXY0djEzYWZ3NWozM2V5amg4em1vMW1ianFuY3I3aXNmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acharyapuru&label=Profile%20views&color=0e75b6&style=flat" alt="acharyapuru" /> </p>
 

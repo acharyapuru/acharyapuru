@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/acharyapuru_" target="blank"><img src="https://img.shields.io/twitter/follow/acharyapuru_?logo=twitter&style=for-the-badge" alt="acharyapuru_" /></a> </p>
 
-- 🌱 I’m currently learning **Django, ASP.NET Core**
+- 🌱 I’m currently learning **Django, **FastAPI ASP.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/acharyapuru](https://github.com/acharyapuru)
 
